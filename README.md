@@ -3,7 +3,7 @@
 Configurações pessoais, pode sofrer alterações 
 
 
-{
+
     // Tema do VS Code
     "workbench.colorTheme": "Dracula",
 
@@ -102,4 +102,4 @@ Configurações pessoais, pode sofrer alterações
     },
     "diffEditor.ignoreTrimWhitespace": false,
     "bracketPairColorizer.depreciation-notice": false
-}
+
